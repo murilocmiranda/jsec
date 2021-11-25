@@ -15,3 +15,4 @@ password in plaintext.
 java -jar /path/to/lib/jsec-0.1.0.jar encrypt /path/to/encrypted_passwd.txt
 $ plaiNTexTPasswOrd
 ```# jsec
+# sqlserver
